@@ -1,6 +1,6 @@
 ### Sou Programador Web Front End Junior 👋
 
- - Desenvolvi o site do software Documento Online [clque aqui](https://documento.online/)
+ - Desenvolvi o __Site__ do sistema Documento Online [clque aqui](https://documento.online/)
  - Sei JavaScript, Jquery, CSS, HTML e umpouco de PHP
  - Atualmente estou estudando JavaScript puro mais a fundo e criando um portfolio
  
