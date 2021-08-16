@@ -1,4 +1,4 @@
 ### Sou Programador Web Front End
 
- - JavaScript, Jquery, CSS e HTML
+ - JavaScript | Jquery | Bootstrap | CSS | HTML
 
